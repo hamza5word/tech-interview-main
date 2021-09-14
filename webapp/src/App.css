@@ -1,0 +1,26 @@
+@import "~bootstrap";
+
+.app-nav-link {
+    font-size: 2em;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.app-active {
+    background: darkcyan;
+    color: white;
+}
+
+.app-hover:hover {
+    background: lightgray;
+    cursor: pointer;
+}
+
+.app-100w {
+    width: 100%;
+}
+
+.app-info-table > * {
+    font-size: 30px;
+}
